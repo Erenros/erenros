@@ -7,8 +7,10 @@
 <h4 align="center">Gameplay Programmer | Unity & Unreal Engine | C++ & C#</h4>
 
 <p align="center">
+ <a href="https://erenros.github.io"><img src="https://img.shields.io/badge/Portfolio-050510?style=for-the-badge&logo=googlechrome&logoColor=00f2ff" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/elias-rousseau-97521533a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:err.khac@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  
 </p>
 
 ---
